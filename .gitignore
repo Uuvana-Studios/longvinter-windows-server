@@ -1,3 +1,4 @@
-LongvinterServer.exe - Shortcut
-Longvinter\Saved\Logs
-Longvinter\Saved
+LongvinterServer.exe - Shortcut.lnk
+Longvinter/Saved/Logs/*
+Longvinter/Saved/SaveGames/*
+Engine/Saved/Config/WindowsServer/*
