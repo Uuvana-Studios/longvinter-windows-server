@@ -69,9 +69,6 @@ if [[ $@ == *"checkUpdate"* ]];then
 	LOCAL=$(git rev-parse HEAD)
 	REMOTE=$(git rev-parse origin/main)
 
-	echo ${LOCAL}
-	echo ${REMOTE}
-
 	if [ $LOCAL != $REMOTE ]; then
 		#Sends global message to all ingame players (through API maybe?)
 		kill_server
