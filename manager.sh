@@ -1,3 +1,5 @@
+#!/bin/sh
+
 function getKey() {
 	hexaKey=$(grep -Eo -m 1 "0[xX][0-9a-fA-F]{15}+" Longvinter/Saved/Logs/Longvinter.log)
 	hexaKey=${hexaKey: 2}
@@ -63,15 +65,11 @@ if [[ $@ == *"getKey"* ]];then
 fi
 
 if [[ $@ == *"checkUpdate"* ]];then
-	LOCAL=$(git rev-parse @)
-	REMOTE=$(git rev-parse "main")
-	BASE=$(git merge-base @ "main")
+	git fetch
+	LOCAL=$(git rev-parse HEAD)
+	REMOTE=$(git rev-parse origin/main)
 
-	if [ $LOCAL = $REMOTE ]; then
-		exit
-	fi
-
-	if [ $LOCAL = $BASE ]; then
+	if [ $LOCAL != $REMOTE ]; then
 		#Sends global message to all ingame players (through API maybe?)
 		kill_server
 		doGit
