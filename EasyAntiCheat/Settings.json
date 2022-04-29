@@ -1,0 +1,14 @@
+{
+	"productid"										: "9f9b041e294542a99fbb1a194842651b",
+	"sandboxid"										: "39c786d3db0a459d861263ad71882db8",
+	"deploymentid"									: "e30e16300e7d4dac9324dfde2aab655e",
+	"title"											: "LongvinterServer",
+	"executable"									: "Longvinter\\Binaries\\Win64\\LongvinterServer-Win64-Shipping.exe",
+	"logo_position"									: "bottom-left",
+	"parameters"									: "",
+	"use_cmdline_parameters"						: "1",
+	"working_directory"								: "",
+	"wait_for_game_process_exit"					: "1",
+	"hide_splash_screen"							: "1",
+	"hide_ui_controls"								: "1"
+}
