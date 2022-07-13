@@ -4,6 +4,7 @@ MaxPlayers=32
 ServerMOTD=Welcome to Longvinter Island!
 Password=
 CommunityWebsite=www.longvinter.com
+serverTag=
 
 [/game/blueprints/server/gm_longvinter.gm_longvinter_c]
 AdminSteamID=97615967659669198
