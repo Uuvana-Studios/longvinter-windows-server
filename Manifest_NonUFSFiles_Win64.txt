@@ -1,4 +1,4 @@
-Longvinter/Binaries/Win64/LongvinterServer-Win64-Shipping.exe	2022-09-09T09:17:32.795Z
+Longvinter/Binaries/Win64/LongvinterServer-Win64-Shipping.exe	2022-09-22T10:28:11.183Z
 Longvinter/Binaries/Win64/RedpointEOS/EOSSDK-Win64-Shipping.dll	2022-04-20T05:08:28.977Z
 Longvinter/Binaries/Win64/RedpointEOS/x64/xaudio2_9redist.dll	2022-04-20T05:08:30.186Z
 Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe	2021-01-09T20:26:15.063Z
@@ -18,4 +18,4 @@ Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2021-01-09T20:16:46.80
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2021-01-09T20:23:37.355Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2021-01-09T20:16:47.242Z
 Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2021-01-09T20:17:59.762Z
-LongvinterServer.exe	2022-09-20T15:28:24.588Z
+LongvinterServer.exe	2022-09-22T15:27:02.146Z
