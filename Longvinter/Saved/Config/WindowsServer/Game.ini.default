@@ -6,10 +6,21 @@ Password=
 CommunityWebsite=www.longvinter.com
 CoopPlay=false
 CoopSpawn=0
+CheckVPN=true
 Tag=none
+ChestRespawnTime=900
+DisableWanderingTraders=false
 
 [/game/blueprints/server/gm_longvinter.gm_longvinter_c]
 AdminSteamID=97615967659669198
 PVP=true
 TentDecay=true
-MaxTents=2
+MaxTents=3
+RestartTime24h=6
+SaveBackups=true
+DefaultPrestigeLevel=1
+Hardcore=false
+MoneyDropMultiplier=0
+WeaponDamageMultiplier=0
+EnergyDrainMultiplier=0
+PriceFluctuationMultiplier=0
