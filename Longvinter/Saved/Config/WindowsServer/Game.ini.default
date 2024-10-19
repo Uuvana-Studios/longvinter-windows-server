@@ -1,11 +1,11 @@
 [/game/blueprints/server/gi_advancedsessions.gi_advancedsessions_c]
 
 ; General server settings
+ServerName=Unnamed Island
+ServerMOTD=Welcome to Longvinter Island!
 CommunityWebsite=www.longvinter.com
 MaxPlayers=32
 Password=
-ServerMOTD=Welcome to Longvinter Island!
-ServerName=Unnamed Island
 
 ; Cooperative play settings
 CoopPlay=false
