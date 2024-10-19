@@ -1,26 +1,63 @@
 [/game/blueprints/server/gi_advancedsessions.gi_advancedsessions_c]
-ServerName=Unnamed Island
-MaxPlayers=32
-ServerMOTD=Welcome to Longvinter Island!
-Password=
+
+; General server settings
 CommunityWebsite=www.longvinter.com
+MaxPlayers=32
+Password=
+ServerMOTD=Welcome to Longvinter Island!
+ServerName=Unnamed Island
+
+; Cooperative play settings
 CoopPlay=false
+; Spawn at the same outpost when CoopPlay is true
+; 0: West, 1: South, 2: East
 CoopSpawn=0
+
+; VPN and server tag settings
 CheckVPN=true
 Tag=none
-ChestRespawnTime=900
+
+; If true, disables Wandering Traders
 DisableWanderingTraders=false
 
 [/game/blueprints/server/gm_longvinter.gm_longvinter_c]
+
+; Admin settings
 AdminSteamID=97615967659669198
-PVP=true
-TentDecay=true
-MaxTents=3
-RestartTime24h=6
-SaveBackups=true
+; Use EOSID not SteamID, separate multiple IDs with a single space
+
+; Starting Prestige level
 DefaultPrestigeLevel=1
+
+; Gameplay settings
+ChestRespawnTime=900
+; In seconds
+
+; Maximum house slots without prestige
+MaxTents=3
+
+; PVP Settings
+PVP=true
+; When false, you cannot damage other players and no raiding
+
+RestartTime24h=6
+; Time in 24-hour format for daily restart
+
+SaveBackups=true
+
+; Base upkeep settings
+TentDecay=true
+
+; Hardcore mode settings
 Hardcore=false
+; When true, houses can't be locked with code, can remove wood from other players' houses, turrets are destructible
+
+; Multipliers for hardcore mode
+PriceFluctuationMultiplier=0
 MoneyDropMultiplier=0
 WeaponDamageMultiplier=0
 EnergyDrainMultiplier=0
 PriceFluctuationMultiplier=0
+MoneyDropMultiplier=0
+WeaponDamageMultiplier=0
+EnergyDrainMultiplier=0
