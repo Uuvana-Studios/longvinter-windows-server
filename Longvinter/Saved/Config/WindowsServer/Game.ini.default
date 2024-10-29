@@ -53,7 +53,7 @@ Hardcore=false
 ; When true, houses can't be locked with code, can remove wood from other players' houses, turrets are destructible
 
 ; Multipliers for hardcore mode
-PriceFluctuationMultiplier=0
-MoneyDropMultiplier=0
-WeaponDamageMultiplier=0
-EnergyDrainMultiplier=0
+PriceFluctuationMultiplier=1
+MoneyDropMultiplier=1
+WeaponDamageMultiplier=1
+EnergyDrainMultiplier=1
