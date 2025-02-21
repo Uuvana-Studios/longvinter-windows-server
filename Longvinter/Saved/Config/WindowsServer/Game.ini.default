@@ -14,7 +14,7 @@ CoopPlay=false
 CoopSpawn=0
 
 ; VPN and server tag settings
-CheckVPN=true
+CheckVPN=false
 Tag=none
 
 ; If true, disables Wandering Traders
@@ -54,6 +54,6 @@ Hardcore=false
 
 ; Multipliers for hardcore mode
 PriceFluctuationMultiplier=1
-MoneyDropMultiplier=1
+MoneyDropMultiplier=0
 WeaponDamageMultiplier=1
 EnergyDrainMultiplier=1
