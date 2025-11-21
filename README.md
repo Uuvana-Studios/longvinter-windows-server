@@ -1,20 +1,23 @@
-# Repository Deprecated
+# ⚠️ Repository Deprecated
 
-This repository is no longer maintained. We now distribute the Longvinter dedicated server through Steam.
+This repository is **no longer maintained**. We have migrated to distributing the Longvinter game server through **Steam**.
 
-## Server Setup
+---
 
-For server setup instructions, visit our official documentation:
+## New Server Setup
 
-**[Longvinter Server Wiki](https://wiki.longvinter.com/server/server)**
+Please visit our official documentation for the latest server setup instructions:
 
-## Support
+**📚 [Longvinter Server Wiki](https://wiki.longvinter.com/server/server)**
 
-If you need help, join our Discord:
+---
 
-**[discord.gg/longvinter](https://discord.gg/longvinter)**
+## Need Help?
 
-## Credits
+If you encounter any issues setting up your server, we're here to help!
 
-- Docker - [@tvandoorn](https://github.com/tvandoorn)
-- Bash manager - [@tsukasaroot](https://github.com/tsukasaroot)
+Join our Discord community:  
+**💬 [Longvinter Discord](https://discord.gg/longvinter)**
+
+---
+
