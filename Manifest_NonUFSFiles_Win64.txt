@@ -1,10 +1,11 @@
 Longvinter/Binaries/Win64/D3D12/D3D12Core.dll	2025-05-22T09:01:47.284Z
 Longvinter/Binaries/Win64/D3D12/d3d12SDKLayers.dll	2025-05-22T09:05:10.184Z
-Longvinter/Binaries/Win64/LongvinterServer-Win64-Shipping.exe	2025-11-06T10:40:36.304Z
+Longvinter/Binaries/Win64/LongvinterServer-Win64-Shipping.exe	2025-11-20T09:17:29.641Z
 Longvinter/Binaries/Win64/OpenImageDenoise.dll	2025-05-22T09:03:34.106Z
 Longvinter/Binaries/Win64/RedpointEOS/EOSSDK-Win64-Shipping.dll	2025-08-01T07:56:38.413Z
 Longvinter/Binaries/Win64/RedpointEOS/x64/xaudio2_9redist.dll	2025-07-31T07:21:34.899Z
-Longvinter/Binaries/Win64/amd_fidelityfx_dx12.dll	2025-08-01T07:36:04.850Z
+Longvinter/Binaries/Win64/amd_fidelityfx_framegeneration_dx12.dll	2025-11-20T08:44:43.719Z
+Longvinter/Binaries/Win64/amd_fidelityfx_upscaler_dx12.dll	2025-11-20T08:44:43.800Z
 Longvinter/Binaries/Win64/tbb.dll	2025-05-22T09:00:54.775Z
 Longvinter/Binaries/Win64/tbb12.dll	2025-05-22T09:03:42.536Z
 Longvinter/Binaries/Win64/tbbmalloc.dll	2025-05-22T09:00:54.775Z
@@ -21,4 +22,12 @@ Engine/Content/Slate/Cursor/invisible.cur	2025-05-22T09:01:22.473Z
 Longvinter/Plugins/DLSS/Binaries/ThirdParty/Win64/nvngx_dlss.dll	2025-08-01T07:32:34.923Z
 Longvinter/Plugins/DLSS/Binaries/ThirdParty/Win64/nvngx_dlssd.dll	2025-08-01T07:32:37.811Z
 Longvinter/Plugins/DiscordRPC/Source/ThirdParty/DiscordRpcLibrary/Win64/discord-rpc.dll	2025-07-31T07:21:07.462Z
-LongvinterServer.exe	2025-11-07T06:15:30.834Z
+Longvinter/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/nvngx_deepdvc.dll	2025-11-20T08:44:46.430Z
+Longvinter/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/nvngx_dlssg.dll	2025-11-20T08:44:46.473Z
+Longvinter/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/sl.common.dll	2025-11-20T08:44:46.480Z
+Longvinter/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/sl.deepdvc.dll	2025-11-20T08:44:46.507Z
+Longvinter/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/sl.dlss_g.dll	2025-11-20T08:44:46.514Z
+Longvinter/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/sl.interposer.dll	2025-11-20T08:44:46.519Z
+Longvinter/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/sl.pcl.dll	2025-11-20T08:44:46.538Z
+Longvinter/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/sl.reflex.dll	2025-11-20T08:44:46.544Z
+LongvinterServer.exe	2025-11-20T12:41:25.312Z
